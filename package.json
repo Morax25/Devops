@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Devops practice",
+  "keywords": [
+    "devops"
+  ],
+  "homepage": "https://github.com/Morax25/Devops#readme",
+  "bugs": {
+    "url": "https://github.com/Morax25/Devops/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morax25/Devops.git"
+  },
+  "license": "ISC",
+  "author": "Adarsh Kushwaha",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  }
+}
